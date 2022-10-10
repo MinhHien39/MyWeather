@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_cloudy.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\cloudy.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_giotnuoc.jpg.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\giotnuoc.jpg"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_hour_day_item.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\hour_day_item.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_setting.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_hinhtron.jpg.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\hinhtron.jpg"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_favourite.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\fragment_favourite.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_sun.png.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\sun.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_day_item.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\day_item.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_gio.png.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\gio.png"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_moon.jpg.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\moon.jpg"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_city_item.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\city_item.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_city_corner_item.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\city_corner_item.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_city.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\fragment_city.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\drawable\\ic_baseline_calendar_today_24.xml"
+    }
+]

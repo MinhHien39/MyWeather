@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favourite.xml",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\fragment_favourite.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\city_item.xml",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\city_item.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_setting.xml",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_city.xml",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\fragment_city.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\day_item.xml",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\day_item.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\hour_day_item.xml",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\hour_day_item.xml"
+    },
+    {
+        "merged": "D:\\MyAndroidProject\\MyAppWeather\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\MyAndroidProject\\MyAppWeather\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
